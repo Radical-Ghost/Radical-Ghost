@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Radical-Ghost
+- 👋 Hi, I’m @Soham Mandavkar
 - 👀 I’m interested in Web Devlopment
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on web Devlopment Projects
 - 📫 How to reach me radicalghost98@gmial.com
 
 <!---
