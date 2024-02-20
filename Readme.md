@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Soham Mandavkar
+- 👋 Hi, I’m @Rasical Ghost
 - 👀 I’m interested in Web Devlopment
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me radicalghost98@gmial.com
