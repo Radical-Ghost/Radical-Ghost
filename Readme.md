@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Radical Ghost
 - 👀 I’m interested in Web Devlopment
 - 🌱 I’m currently learning JavaScript
-- 📫 How to reach me radicalghost98@gmial.com
+- 📫 How to reach me radicalghost98@gmail.com
 
 <!---
 Radical-Ghost/Radical-Ghost is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
