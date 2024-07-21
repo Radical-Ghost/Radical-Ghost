@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Radical Ghost
-- 👀 I’m interested in Web Devlopment
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m interested in Machine Learning
+- 🌱 I’m currently learning Pytorch library 
 - 📫 How to reach me radicalghost98@gmail.com
 
 <!---
