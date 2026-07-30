@@ -71,17 +71,6 @@ Final Year Computer Engineering Student @ RGIT Mumbai
   <a href="#"><img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" /></a>
 </div>
 
----
-
-## 📊 GitHub Stats
-
-<p align=center>
-  <img src="https://github-readme-stats.vercel.app/api?username=Radical-Ghost&show_icons=true&theme=dracula" />
-</p>
-
-<p align=center>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Radical-Ghost&layout=compact&theme=dracula" />
-</p>
 
 ---
 
